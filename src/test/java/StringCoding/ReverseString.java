@@ -1,4 +1,4 @@
-package Coding;
+package StringCoding;
 
 public class ReverseString {
 

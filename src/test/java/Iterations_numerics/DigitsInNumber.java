@@ -1,4 +1,4 @@
-package Coding;
+package Iterations_numerics;
 
 public class DigitsInNumber {
 
