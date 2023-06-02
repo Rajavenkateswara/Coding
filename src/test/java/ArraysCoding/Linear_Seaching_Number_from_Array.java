@@ -1,6 +1,6 @@
 package ArraysCoding;
 
-public class Seaching_Number_from_Array {
+public class Linear_Seaching_Number_from_Array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
