@@ -2,13 +2,16 @@ package ArraysCoding;
 
 import java.util.Arrays;
 
+import org.testng.annotations.Test;
+
 public class BinarySearch_Array {
 
-	public static void main(String[] args) {
+	//public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		// Array should in sorted order
-
+	@Test
+    public static void Binary() {
 		int a[] = {12,32,33,45,56,78,88,99};
 		boolean status = false;
 		int key = 0;
