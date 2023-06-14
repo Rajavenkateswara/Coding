@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-07T11:07:24 IST" name="Default suite" finished-at="2023-06-07T11:07:24 IST" duration-ms="84">
+  <suite name="Default suite" duration-ms="76" started-at="2023-06-14T13:35:25 IST" finished-at="2023-06-14T13:35:25 IST">
     <groups>
     </groups>
-    <test started-at="2023-06-07T11:07:24 IST" name="Default test" finished-at="2023-06-07T11:07:24 IST" duration-ms="84">
-      <class name="ArraysCoding.RemoveSplCharacterFromString">
-        <test-method signature="removeSpecialCharacterFromString()[pri:0, instance:ArraysCoding.RemoveSplCharacterFromString@40cb8df7]" started-at="2023-06-07T11:07:24 IST" name="removeSpecialCharacterFromString" finished-at="2023-06-07T11:07:24 IST" duration-ms="13" status="PASS">
+    <test name="Default test" duration-ms="76" started-at="2023-06-14T13:35:25 IST" finished-at="2023-06-14T13:35:25 IST">
+      <class name="java_basic.splitting_String_with_delimeter">
+        <test-method status="PASS" signature="concatinate()[pri:0, instance:java_basic.splitting_String_with_delimeter@4f063c0a]" name="concatinate" duration-ms="12" started-at="2023-06-14T13:35:25 IST" finished-at="2023-06-14T13:35:25 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- removeSpecialCharacterFromString -->
-      </class> <!-- ArraysCoding.RemoveSplCharacterFromString -->
+        </test-method> <!-- concatinate -->
+      </class> <!-- java_basic.splitting_String_with_delimeter -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
